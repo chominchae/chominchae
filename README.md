@@ -1,5 +1,4 @@
 # Chominchae
----
 I am a student studying computer engineering.
 
 ## 🎓 Education
