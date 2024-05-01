@@ -1,8 +1,5 @@
-//# Chominchae
-//I am a student studying computer engineering.
+# Chominchae
 
-//## 🎓 Education
-//- Hankuk University of Foreign Studies, Computer Engineering, Freshman
 
 <!--
 **chominchae/chominchae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
